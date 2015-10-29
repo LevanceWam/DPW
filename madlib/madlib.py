@@ -16,6 +16,7 @@ print "Tom know's that he has money in his piggy bank but can't remember how muc
 print "Tom's friends also have some extra money but they have $2 less than he has"
 print "Tom goes and checks the piggy bank"
 
+#
 piggy = raw_input("How much money was in the bank: ")
 piggy = int(piggy)
 if 5 < piggy:
@@ -38,7 +39,23 @@ tom_money_all = int(piggy) + 5
 
 print "after going counting all of the money Tom had $"+str(tom_money_all)+", and his friends had $"+str(extra_friend_money_all)
 
-final_amount = extra_friend_money_all + tom_money_all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+m_money_all
 print "When they added it together it totaled out to $"+str(final_amount)
 final_amount = int(final_amount)
 
