@@ -39,23 +39,7 @@ tom_money_all = int(piggy) + 5
 
 print "after going counting all of the money Tom had $"+str(tom_money_all)+", and his friends had $"+str(extra_friend_money_all)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-m_money_all
+tom_money_all
 print "When they added it together it totaled out to $"+str(final_amount)
 final_amount = int(final_amount)
 
